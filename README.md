@@ -86,7 +86,16 @@ cost.
    infrastructure remotely. The app also surfaces plot-level
    recommendations and alerts derived from satellite vegetation/soil
    coefficients, independent of the sensor-based pipeline above.
+## 📸 Field Deployment
 
+<p align="center">
+  <img src="1.jpg" width="700">
+</p>
+## 📸 Field Deployment
+
+<p align="center">
+  <img src="3.jpg" width="700">
+</p>
 ## Current research direction (ongoing)
 
 The project is moving from a fixed pipeline toward a distributed,
