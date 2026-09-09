@@ -129,3 +129,6 @@ The implementation, trained models, and field sensor data are covered by
 confidentiality agreements with GIZ and the participating farms. This
 repository exists so the architecture and approach can still be discussed
 and reviewed publicly, without exposing anything proprietary.
+<p align="center">
+  <img src="image.jpg" width="700">
+</p>
