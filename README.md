@@ -89,13 +89,10 @@ cost.
 ## 📸 Field Deployment
 
 <p align="center">
-  <img src="1.png" width="700">
+  <img src="1.png" width="650">
+  <img src="3.png" width="650">
 </p>
-## 📸 Field Deployment
 
-<p align="center">
-  <img src="3.png" width="700">
-</p>
 ## Current research direction (ongoing)
 
 The project is moving from a fixed pipeline toward a distributed,
