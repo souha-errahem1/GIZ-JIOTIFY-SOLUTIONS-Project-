@@ -89,8 +89,8 @@ cost.
 ## 📸 Field Deployment
 
 <p align="center">
-  <img src="1.png" width="650">
-  <img src="3.png" width="650">
+  <img src="1.png" width="350">
+  <img src="3.png" width="350">
 </p>
 
 ## Current research direction (ongoing)
